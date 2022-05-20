@@ -1,0 +1,340 @@
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\nlog.config
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\appsettings.json
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.exe
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.deps.json
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.runtimeconfig.json
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.runtimeconfig.dev.json
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\ref\Practical-19.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.pdb
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Humanizer.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\NLog.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Contracts.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\LoggingService.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\Contracts.pdb
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\bin\Debug\net5.0\LoggingService.pdb
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.AssemblyReference.cache
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.AssemblyInfoInputs.cache
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.AssemblyInfo.cs
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.CoreCompileInputs.cache
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\staticwebassets\Practical-19.StaticWebAssets.Manifest.cache
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\staticwebassets\Practical-19.StaticWebAssets.xml
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\scopedcss\bundle\Practical-19.styles.css
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.RazorTargetAssemblyInfo.cache
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.CopyComplete
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\ref\Practical-19.dll
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.pdb
+C:\Users\rikesh\source\repos\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.genruntimeconfig.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\nlog.config
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\appsettings.json
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.StaticWebAssets.xml
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.exe
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.deps.json
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.runtimeconfig.json
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.runtimeconfig.dev.json
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.pdb
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\NLog.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Contracts.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\LoggingService.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\Contracts.pdb
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\bin\Debug\net5.0\LoggingService.pdb
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.AssemblyReference.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.AssemblyInfoInputs.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.AssemblyInfo.cs
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.CoreCompileInputs.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\scopedcss\bundle\Practical-19.styles.css
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\staticwebassets\Practical-19.StaticWebAssets.Manifest.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.RazorTargetAssemblyInfo.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.CopyComplete
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\refint\Practical-19.dll
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.pdb
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.genruntimeconfig.cache
+C:\Users\vidhi\Downloads\Asp.Net-Core-Practicals-main\Asp.Net-Core-Practicals-main\Practical-19\Practical-19\obj\Debug\net5.0\ref\Practical-19.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\nlog.config
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\appsettings.json
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.StaticWebAssets.xml
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.exe
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.deps.json
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.runtimeconfig.json
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.runtimeconfig.dev.json
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.pdb
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\NLog.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Contracts.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\LoggingService.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\Contracts.pdb
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\bin\Debug\net5.0\LoggingService.pdb
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.AssemblyReference.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.AssemblyInfoInputs.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.AssemblyInfo.cs
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.CoreCompileInputs.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\scopedcss\bundle\Practical-19.styles.css
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\staticwebassets\Practical-19.StaticWebAssets.Manifest.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.RazorTargetAssemblyInfo.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.CopyComplete
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\refint\Practical-19.dll
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.pdb
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.genruntimeconfig.cache
+C:\Users\vidhi\Desktop\Asp.net Core\Practical-19\Practical-19\obj\Debug\net5.0\ref\Practical-19.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\nlog.config
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\appsettings.json
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.StaticWebAssets.xml
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.exe
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.deps.json
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.runtimeconfig.json
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.runtimeconfig.dev.json
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Practical-19.pdb
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\NLog.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Contracts.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\LoggingService.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\Contracts.pdb
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\bin\Debug\net5.0\LoggingService.pdb
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.AssemblyReference.cache
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.AssemblyInfoInputs.cache
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.AssemblyInfo.cs
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.CoreCompileInputs.cache
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\scopedcss\bundle\Practical-19.styles.css
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\staticwebassets\Practical-19.StaticWebAssets.Manifest.cache
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.RazorTargetAssemblyInfo.cache
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.CopyComplete
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\refint\Practical-19.dll
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.pdb
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\Practical-19.genruntimeconfig.cache
+C:\Users\vidhi\Desktop\Asp.Net Core Practicals\Practical-19\Practical-19\obj\Debug\net5.0\ref\Practical-19.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\nlog.config
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\appsettings.json
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Practical-19.StaticWebAssets.xml
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Practical-19.exe
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Practical-19.deps.json
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Practical-19.runtimeconfig.json
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Practical-19.runtimeconfig.dev.json
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Practical-19.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Practical-19.pdb
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\NLog.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Contracts.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\LoggingService.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\Contracts.pdb
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\bin\Debug\net5.0\LoggingService.pdb
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.AssemblyReference.cache
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.AssemblyInfoInputs.cache
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.AssemblyInfo.cs
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.CoreCompileInputs.cache
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\scopedcss\bundle\Practical-19.styles.css
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\staticwebassets\Practical-19.StaticWebAssets.Manifest.cache
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.RazorTargetAssemblyInfo.cache
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.CopyComplete
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\ref\Practical-19.dll
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.pdb
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.genruntimeconfig.cache
+C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\refint\Practical-19.dll
