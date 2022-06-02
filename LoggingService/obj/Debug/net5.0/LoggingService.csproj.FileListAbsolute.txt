@@ -43,3 +43,11 @@ C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\LoggingService\obj\Debu
 C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\LoggingService\obj\Debug\net5.0\ref\LoggingService.dll
 C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\LoggingService\obj\Debug\net5.0\LoggingService.pdb
 C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\LoggingService\obj\Debug\net5.0\refint\LoggingService.dll
+C:\Users\vidhi\Desktop\Practical_19\LoggingService\obj\Debug\net5.0\LoggingService.csproj.AssemblyReference.cache
+C:\Users\vidhi\Desktop\Practical_19\LoggingService\obj\Debug\net5.0\LoggingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhi\Desktop\Practical_19\LoggingService\obj\Debug\net5.0\LoggingService.AssemblyInfoInputs.cache
+C:\Users\vidhi\Desktop\Practical_19\LoggingService\obj\Debug\net5.0\LoggingService.AssemblyInfo.cs
+C:\Users\vidhi\Desktop\Practical_19\LoggingService\obj\Debug\net5.0\LoggingService.csproj.CoreCompileInputs.cache
+C:\Users\vidhi\Desktop\Practical_19\LoggingService\obj\Debug\net5.0\LoggingService.dll
+C:\Users\vidhi\Desktop\Practical_19\LoggingService\obj\Debug\net5.0\ref\LoggingService.dll
+C:\Users\vidhi\Desktop\Practical_19\LoggingService\obj\Debug\net5.0\LoggingService.pdb

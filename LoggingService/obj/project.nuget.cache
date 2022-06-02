@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J/OI11USOE7lPkSbmUymE0sDlZHq4RlOHfXT1IyrBHzWeezBT8Krr2dWx2QNuYIlnLT22j3nN3322+5wb37Kag==",
+  "dgSpecHash": "MC1QAJKxnPVUFRr7Hw7pQ5wlitg19r8JarVfWGHmU6Vk2IAyqMJ6X8G/B5oNLDXiFlFLpUFtFUq2BDdNb//RDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vidhi\\Desktop\\.Net Core Practicals\\Practical_19\\LoggingService\\LoggingService.csproj",
+  "projectFilePath": "C:\\Users\\vidhi\\Desktop\\Practical_19\\LoggingService\\LoggingService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vidhi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\vidhi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",

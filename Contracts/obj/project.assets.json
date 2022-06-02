@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vidhi\\Desktop\\.Net Core Practicals\\Practical_19\\Contracts\\Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\vidhi\\Desktop\\Practical_19\\Contracts\\Contracts.csproj",
       "projectName": "Contracts",
-      "projectPath": "C:\\Users\\vidhi\\Desktop\\.Net Core Practicals\\Practical_19\\Contracts\\Contracts.csproj",
+      "projectPath": "C:\\Users\\vidhi\\Desktop\\Practical_19\\Contracts\\Contracts.csproj",
       "packagesPath": "C:\\Users\\vidhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vidhi\\Desktop\\.Net Core Practicals\\Practical_19\\Contracts\\obj\\",
+      "outputPath": "C:\\Users\\vidhi\\Desktop\\Practical_19\\Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

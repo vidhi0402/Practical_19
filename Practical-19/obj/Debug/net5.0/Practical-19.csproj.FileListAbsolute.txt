@@ -338,3 +338,13 @@ C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\
 C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.pdb
 C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.genruntimeconfig.cache
 C:\Users\vidhi\Desktop\.Net Core Practicals\Practical_19\Practical-19\obj\Debug\net5.0\refint\Practical-19.dll
+C:\Users\vidhi\Desktop\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.AssemblyReference.cache
+C:\Users\vidhi\Desktop\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidhi\Desktop\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.AssemblyInfoInputs.cache
+C:\Users\vidhi\Desktop\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.AssemblyInfo.cs
+C:\Users\vidhi\Desktop\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.csproj.CoreCompileInputs.cache
+C:\Users\vidhi\Desktop\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vidhi\Desktop\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vidhi\Desktop\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.dll
+C:\Users\vidhi\Desktop\Practical_19\Practical-19\obj\Debug\net5.0\ref\Practical-19.dll
+C:\Users\vidhi\Desktop\Practical_19\Practical-19\obj\Debug\net5.0\Practical-19.pdb
